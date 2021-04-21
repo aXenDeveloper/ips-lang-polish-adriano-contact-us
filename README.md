@@ -15,4 +15,6 @@
 
 ## 🔌 Download from other sources
 
+- [invisionize.pl](https://forum.invisionize.pl/files/file/828-adriano-faria-contact-us-polish-translation/)
+
 _The resources from the links above are updated on an ongoing basis if the administration approves the file._
