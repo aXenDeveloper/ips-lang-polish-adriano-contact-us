@@ -32,7 +32,7 @@
   <word key="cjcontact_departments_emails_desc" js="0">Dodaj dodatkowe e-maile, do których chcesz wysłać</word>
   <word key="cjcontact_departmetns_emails_bad" js="0">Jeden z dodatkowych e-maili nie jest adresem e-mail, popraw go</word>
   <word key="cjcontact_departmetns_member_error" js="0">Proszę podaj użytkownika</word>
-  <word key="cjcontact_departments_member" js="0">Użytkownik poczty</word>
+  <word key="cjcontact_departments_member" js="0">Opublikuj jako użytkownik</word>
   <word key="cjcontact_departments_member_desc" js="0">Który użytkownik ma opublikować temat jako</word>
   <word key="module__cjcontact_contact" js="0">Kontakt</word>
   <word key="cjcontact_email_subject" js="0">Temat:</word>
