@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language name="Polski" rtl="0">
+ <app key="cjcontact" version="11015">
+  <word key="__app_cjcontact" js="0">Contact Us</word>
+  <word key="frontnavigation_cjcontact" js="0">Kontakt</word>
+  <word key="cjcontact_title" js="0">Kontakt</word>
+  <word key="cjcontact_departments_departments" js="0">Działy</word>
+  <word key="cjcontact_departments_name" js="0">Dział</word>
+  <word key="cjcontact_departments_description" js="0">Opis</word>
+  <word key="cjcontact_departments_groups" js="0">Grupy</word>
+  <word key="cjcontact_departments_groups_desc" js="0">Grupy do powiadomienia.</word>
+  <word key="cjcontact_departments" js="0">Działy</word>
+  <word key="menu__cjcontact_departments" js="0">Kontakt</word>
+  <word key="menu__cjcontact_departments_departments" js="0">Działy</word>
+  <word key="menutab__cjcontact" js="0">Kontakt</word>
+  <word key="cjcontact_departments_desc" js="0">Opis</word>
+  <word key="cjcontact_departments_forums" js="0">Forum</word>
+  <word key="departments_support_department" js="0">Dział</word>
+  <word key="departments_support_department_desc" js="0">Wybierz dział, w którym zostanie utworzone zgłoszenie. Pozostaw puste, jeśli nie chcesz, aby zgłoszenie zostało utworzone.</word>
+  <word key="cjcontact_departments_forums_desc" js="0">Wybierz forum, na którym chcesz publikować. Pozostaw puste pole, jeśli nie chcesz, aby formularze kontaktowe były publikowane.</word>
+  <word key="cjcontact_contact_error" js="0">Ups! Wystąpił błąd. Spróbuj ponownie później.</word>
+  <word key="cjcontact_contact_error_perms" js="0">Nie masz do tego uprawnień</word>
+  <word key="cjcontact_contact_error_department" js="0">To nie są droidy, których szukasz</word>
+  <word key="mailsub__cjcontact_notification_cjcontact" js="0">Nowy kontakt: {$subject}</word>
+  <word key="cjcontact_notification" js="0">Nowy kontakt:</word>
+  <word key="cjcontact_contact_subject" js="0">Temat</word>
+  <word key="cjcontact_contact_email" js="0">Adres e-mail</word>
+  <word key="cjcontact_contact_editor" js="0">Wiadomość</word>
+  <word key="cjcontact_droid_check" js="0">Sprawdzanie czy nie jesteś robotem</word>
+  <word key="cjcontact_copy" js="0">Wyślij kopię na swój adres e-mail</word>
+  <word key="cjcontact_departments_emails" js="0">Dodatkowe e-maile</word>
+  <word key="cjcontact_departments_emails_desc" js="0">Dodaj dodatkowe e-maile, do których chcesz wysłać</word>
+  <word key="cjcontact_departmetns_emails_bad" js="0">Jeden z dodatkowych e-maili nie jest adresem e-mail, popraw go</word>
+  <word key="cjcontact_departmetns_member_error" js="0">Proszę podaj użytkownika</word>
+  <word key="cjcontact_departments_member" js="0">Użytkownik poczty</word>
+  <word key="cjcontact_departments_member_desc" js="0">Który użytkownik ma opublikować temat jako</word>
+  <word key="module__cjcontact_contact" js="0">Kontakt</word>
+  <word key="cjcontact_email_subject" js="0">Temat:</word>
+  <word key="cjcontacts_thanks" js="0">Twoja wiadomość została wysłana. Dzięki!</word>
+  <word key="cjcontact_departments_perm__view" js="0">Wyświetl dział</word>
+  <word key="cjcontact_email_department" js="0">Dział:</word>
+  <word key="menu__cjcontact_departments_fields" js="0">Dodatkowe pola</word>
+  <word key="cjcontact_fields" js="0">Dodatkowe pola</word>
+  <word key="cfields" js="0">Dodatkowe pola</word>
+  <word key="cjcontact_departments_tab_fields" js="0">Dodatkowe pola</word>
+  <word key="cjcontact_departments_tab_topic" js="0">Tematy na forum</word>
+  <word key="cjcontact_departments_tab_nexus" js="0">Żądania wsparcia</word>
+  <word key="cjcontact_departments_tab_settings" js="0">Ogólne</word>
+  <word key="cjcontact_no_department_available" js="0">Brak działów dostępnych dla Twojej grupy użytkowników.</word>
+  <word key="menu__cjcontact_departments_settings" js="0">Ustawienia</word>
+  <word key="cjcontact_msg_onoff" js="0">Włącz wiadomość</word>
+  <word key="cjcontact_msg_onoff_desc" js="0">Ta wiadomość pojawi się na ekranie postu</word>
+  <word key="cjcontact_msg_msg" js="0">Wiadomość</word>
+  <word key="cjcontact_msg_type" js="0">Rodzaj wiadomości</word>
+  <word key="cjcontact_msg_type_warn" js="0">Ostrzeżenie</word>
+  <word key="cjcontact_msg_type_information" js="0">Informacja</word>
+  <word key="cjcontact_msg_type_success" js="0">Sukces</word>
+  <word key="cjcontact_msg_type_error" js="0">Błąd</word>
+  <word key="cjcontact_msg_type_general" js="0">Ogólne</word>
+  <word key="cjcontact_msg_type_plaintext" js="0">Zwykły tekst</word>
+  <word key="acplogs__cjcontact_settings" js="0">Zaktualizowano ustawienia Contact Us</word>
+  <word key="cjcontact_departments_explain" js="0"><![CDATA[<a href='%s' data-ipsDialog data-ipsDialog-size='medium' data-ipsDialog-title='Opis działów'>Kliknij tutaj</a> aby wyświetlić opis działów]]></word>
+  <word key="cjcontact_departments_title" js="0">Tytuł</word>
+  <word key="cjcontact_departments_no_description" js="0">Brak opisu.</word>
+  <word key="filestorage__cjcontact_ContactField" js="0">Kontakt pola niestandardowe</word>
+  <word key="cjcontact_tab_form" js="0">Pozycja dodatkowych pól</word>
+  <word key="cjcontact_tab_message" js="0">Wiadomość</word>
+  <word key="cjcontact_customfield_position" js="0"><![CDATA[Pozycja dodatkowych pól w <strong>Kontakt</strong> z]]></word>
+  <word key="cjcontact_customfield_position_after" js="0"><![CDATA[<strong>PO</strong> regularnych polach]]></word>
+  <word key="cjcontact_customfield_position_before" js="0"><![CDATA[<strong>PRZED</strong> regularnych polach]]></word>
+ </app>
+</language>
